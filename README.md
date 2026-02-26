@@ -1,5 +1,18 @@
 # 📊 Customer Segmentation & Revenue Optimization Dashboard
- ![Customer Segmentation Dashboard](Dashboard.jpg)
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/Model-K--Means-blue)
+![Orange](https://img.shields.io/badge/ML%20Tool-Orange-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 📊 Dashboard Preview
+
+![Customer Segmentation Dashboard](Dashboard.jpg)
+
+---
 
 ## 📌 Project Overview
 This project analyzes U.S. retail customer purchase data (3,900+ records) to identify customer segments and optimize discount strategies.  
@@ -56,6 +69,13 @@ K-Means clustering was applied using Orange, and results were visualized in an i
 - Chicago and New York are top revenue-generating locations.
 
 ---
+## 🚀 Project Highlights
+
+- ✔ 3 Customer Segments Identified
+- ✔ 49% Discount Usage Analysis
+- ✔ Seasonal Revenue Trend Analysis
+- ✔ Location-Based Performance Insights
+- ✔ Data-Driven Marketing Strategy Recommendations
 
 ## 💡 Business Recommendations
 
